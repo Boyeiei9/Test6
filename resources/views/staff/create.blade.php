@@ -35,11 +35,11 @@
             </div>
             <div class="col-md-12">
                 <strong>birthdate:</strong>
-                <textarea class="form-control" style="height:150px" name="content" placeholder="Detail"></textarea>
+                <textarea class="form-control" style="height:150px" name="birthdate" placeholder="Detail"></textarea>
             </div>
             <div class="col-md-12">
                 <strong>phone: </strong>
-                <input type="number" name="stock" class="form-control" value="0">
+                <input type="number" name="phone" class="form-control" value="0">
             </div>
             <div class="col-md-12">
                 <button type="submit" class="btn btn-primary">Submit</button>
